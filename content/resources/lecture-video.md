@@ -2,6 +2,11 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Lecture Video
 uid: f9f7c93d-7232-6c1f-49a8-927975ee0789
