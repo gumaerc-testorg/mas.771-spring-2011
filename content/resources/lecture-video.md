@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -23,6 +24,4 @@ video_metadata:
 ---
 
 This video is a lecture by Edward G. Carr (known as Ted Carr). He discusses the way autistic behaviors present themselves and the current state of the study of autism.
-
-
 
