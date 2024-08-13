@@ -2,12 +2,12 @@
 content_type: page
 description: This section contains a list of relevant links that relate to autism,
   including non-profits, education groups, scientific studies, and videos.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 4ede97cc-7f54-5781-03c7-eab86d830a93
 ---
-
 Autism Links
 ------------
 

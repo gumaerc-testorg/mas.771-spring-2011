@@ -21,15 +21,15 @@ Week 1: Introduction to Autism and Autism Technology
 
 "MRC Review of Autism Research: Epistemology and Causes." Medical Research Council. 2001.
 
-Hayes, G. R., et al. "[Designing Capture Applications to Support the Education of Children with Autism](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.127.5538)." In _Proceedings of the 6th International Conference on Ubiquitous Computing_. 2004.
+Hayes, G. R., et al. "[Designing Capture Applications to Support the Education of Children with Autism](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.127.5538)." In *Proceedings of the 6th International Conference on Ubiquitous Computing*. 2004.
 
-Hayes, G. R., Lamar M. Gardere, Gregory D. Abowd, and Khai N. Truong. "[Carelog: A Selective Archiving Tool for Behavior Management in Schools](http://portal.acm.org/citation.cfm?doid=1357054.1357164)." In the _Proceedings of CHI 2008_. Florence, Italy. 2008.
+Hayes, G. R., Lamar M. Gardere, Gregory D. Abowd, and Khai N. Truong. "[Carelog: A Selective Archiving Tool for Behavior Management in Schools](http://portal.acm.org/citation.cfm?doid=1357054.1357164)." In the *Proceedings of CHI 2008*. Florence, Italy. 2008.
 
-Kientz, J. A., R. I. Arriaga, and G. D. Abowd. "Baby Steps: Evaluation of a System to Support Better Record-Keeping for Parents of Young Children." In the _Proceedings of CHI 2009_. Boston, MA. 2009.
+Kientz, J. A., R. I. Arriaga, and G. D. Abowd. "Baby Steps: Evaluation of a System to Support Better Record-Keeping for Parents of Young Children." In the *Proceedings of CHI 2009*. Boston, MA. 2009.
 
-Picard, Rosalind W., et al. "[Exploring Speech Therapy Games with Children on the Autism Spectrum](http://hdl.handle.net/1721.1/56580)." In the _Proceedings of Interspeech 2009_. Brighton, U.K. 2009.
+Picard, Rosalind W., et al. "[Exploring Speech Therapy Games with Children on the Autism Spectrum](http://hdl.handle.net/1721.1/56580)." In the *Proceedings of Interspeech 2009*. Brighton, U.K. 2009.
 
-Morris, Robert R., Connor R. Kirschbaum, and Rosalind W. Picard. "Broadening Accessibility through Special Interests: A New Approach for Software Customization." In _Proceedings of Assets_ _2010_. 2010.
+Morris, Robert R., Connor R. Kirschbaum, and Rosalind W. Picard. "Broadening Accessibility through Special Interests: A New Approach for Software Customization." In *Proceedings of Assets* *2010*. 2010.
 
 ### Questions
 
@@ -43,13 +43,13 @@ Morris, Robert R., Connor R. Kirschbaum, and Rosalind W. Picard. "Broadening Acc
 Week 2: Autism Technologies
 {{< tdclose >}}{{< tdopen >}}
 
-Carr, Edward, and Christopher E. Smith. "[Biological Setting Events for Self-Injury](http://onlinelibrary.wiley.com/doi/10.1002/mrdd.1410010204/abstract)." _Mental Retardation and Developmental Disabilities Research Reviews_ 1, no. 2 (1995): 94-98.
+Carr, Edward, and Christopher E. Smith. "[Biological Setting Events for Self-Injury](http://onlinelibrary.wiley.com/doi/10.1002/mrdd.1410010204/abstract)." *Mental Retardation and Developmental Disabilities Research Reviews* 1, no. 2 (1995): 94-98.
 
-Carr, Edward, et al. "[Menstrual Discomfort as a Biological Setting Event for Severe Problem Behavior: Assessment and Intervention](http://www.ncbi.nlm.nih.gov/pubmed/12564944)." _American Journal of Mental Retardation_ 108, no. 2 (2003): 117-133.
+Carr, Edward, et al. "[Menstrual Discomfort as a Biological Setting Event for Severe Problem Behavior: Assessment and Intervention](http://www.ncbi.nlm.nih.gov/pubmed/12564944)." *American Journal of Mental Retardation* 108, no. 2 (2003): 117-133.
 
-Carr, Edward, and J. S. Owen-DeSchryver. "[Physical Illness, Pain, and Problem Behavior in Minimally Verbal People with Developmental Disabilities](http://www.ncbi.nlm.nih.gov/pubmed/16897378)." _Journal of Autism and Developmental Disorders_ 37, no. 3 (2007): 413-424.
+Carr, Edward, and J. S. Owen-DeSchryver. "[Physical Illness, Pain, and Problem Behavior in Minimally Verbal People with Developmental Disabilities](http://www.ncbi.nlm.nih.gov/pubmed/16897378)." *Journal of Autism and Developmental Disorders* 37, no. 3 (2007): 413-424.
 
-Carr, Edward, and Martha Herbert. "Integrating Behavioral and Biomedical Approaches: A Marriage Made in Heaven." _Autism Advocate_ 1 (2008): 45-52. ([PDF - 3.1 MB](http://docplayer.net/60552131-Integrating-behavioral-and-biomedical-approaches-a-marriage-made-in-heaven.html))
+Carr, Edward, and Martha Herbert. "Integrating Behavioral and Biomedical Approaches: A Marriage Made in Heaven." *Autism Advocate* 1 (2008): 45-52. ([PDF - 3.1 MB](http://docplayer.net/60552131-Integrating-behavioral-and-biomedical-approaches-a-marriage-made-in-heaven.html))
 
 ### Questions
 
@@ -61,13 +61,13 @@ Carr, Edward, and Martha Herbert. "Integrating Behavioral and Biomedical Approac
 Week 3: Understanding & Treating Problem Behavior in ASD
 {{< tdclose >}}{{< tdopen >}}
 
-Kanner, L. "Autistic Disturbances of Affective Contact." _Nervous Child_ 2 (1943): 217-250. ([PDF](http://garfield.library.upenn.edu/classics1979/A1979HZ31800001.pdf))
+Kanner, L. "Autistic Disturbances of Affective Contact." *Nervous Child* 2 (1943): 217-250. ([PDF](http://garfield.library.upenn.edu/classics1979/A1979HZ31800001.pdf))
 
-Herbert, Martha. "Autism: A Brain Disorder, or a Disorder that Affects the Brain?" _Clinical Neuropsychiatry_ 2, no. 6 (2005): 354-379.
+Herbert, Martha. "Autism: A Brain Disorder, or a Disorder that Affects the Brain?" *Clinical Neuropsychiatry* 2, no. 6 (2005): 354-379.
 
-———. "Time to Get a Grip." _Autism Advocate_ 5 (2006): 18-25. ([PDF](http://mindd.org/s/uploads/pdf/Herbert%20Time_to_get_a_grip-aut-envhealth%20ASA06.pdf))
+———. "Time to Get a Grip." *Autism Advocate* 5 (2006): 18-25. ([PDF](http://mindd.org/s/uploads/pdf/Herbert%20Time_to_get_a_grip-aut-envhealth%20ASA06.pdf))
 
-———. "Treatment-Guided Research: Helping People Now With Humility, Respect, and Boldness." _Autism Advocate_ 1 (2008): 8-14. ([PDF](http://www.marthaherbert.org/library/Herbert_TGRI_April08_ASA-Advocate.pdf))
+———. "Treatment-Guided Research: Helping People Now With Humility, Respect, and Boldness." *Autism Advocate* 1 (2008): 8-14. ([PDF](http://www.marthaherbert.org/library/Herbert_TGRI_April08_ASA-Advocate.pdf))
 
 ### Questions
 
@@ -80,19 +80,17 @@ Herbert, Martha. "Autism: A Brain Disorder, or a Disorder that Affects the Brain
 Week 4: Biomedical & Environmental Factors
 {{< tdclose >}}{{< tdopen >}}
 
-Mottron, L., et al. "[Enhanced Perceptual Functioning in Autism: An Update, and Eight Principles of Autistic Perception](http://www.ncbi.nlm.nih.gov/pubmed/16453071)." _Journal of Autism and Developmental Disorders_ 36, no. 1 (2006): 27-43.
+Mottron, L., et al. "[Enhanced Perceptual Functioning in Autism: An Update, and Eight Principles of Autistic Perception](http://www.ncbi.nlm.nih.gov/pubmed/16453071)." *Journal of Autism and Developmental Disorders* 36, no. 1 (2006): 27-43.
 
-Dawson, M., I. Soulières, M. A. Gernsbacher, and L. Mottron. [The Level and Nature of Autistic Intelligence](http://www.ncbi.nlm.nih.gov/pubmed/17680932). _Psychological Science_ 18, no. 8 (2007): 657-662.
+Dawson, M., I. Soulières, M. A. Gernsbacher, and L. Mottron. [The Level and Nature of Autistic Intelligence](http://www.ncbi.nlm.nih.gov/pubmed/17680932). *Psychological Science* 18, no. 8 (2007): 657-662.
 
-Gernsbacher, M. "Learning in Autism." In _Cognitive Psychology of Memory. Vol. \[2\] of Learning and Memory: A Comprehensive Reference._ 4 vols. Edited by H. L. Roediger, III. Elsevier, 2008, pp. 759-772. ISBN: 9780123705044.
+Gernsbacher, M. "Learning in Autism." In *Cognitive Psychology of Memory. Vol. \[2\] of Learning and Memory: A Comprehensive Reference.* 4 vols. Edited by H. L. Roediger, III. Elsevier, 2008, pp. 759-772. ISBN: 9780123705044.
 
 Many autistic individuals write extremely articulate and insightful blogs, and some of these individuals are non-speaking and have difficulty making it through a day without significant help and support. Here are some links to sites prepared by autistic individuals that the course staff has interacted with - and some others they have recommended to us:
 
 [http://autismcrisis.blogspot.com/](http://autismcrisis.blogspot.com/)
 
 [http://ballastexistenz.autistics.org](http://ballastexistenz.autistics.org/)
-
-[http://aspergersquare8.blogspot.com](http://aspergersquare8.blogspot.com/)
 
 [http://autismdiva.blogspot.com/](http://autismdiva.blogspot.com/)
 
@@ -110,7 +108,7 @@ Many autistic individuals write extremely articulate and insightful blogs, and s
 Week 5: Personal Perspective & Autistic Intelligence
 {{< tdclose >}}{{< tdopen >}}
 
-Baron, M. Grace, June Groden, Gerald Groden, and Lewis P. Lipsitt, eds. Selections from _Stress and Coping in Autism_. Oxford University Press, 2006, pp. 70-81. ISBN: 9780195182262.
+Baron, M. Grace, June Groden, Gerald Groden, and Lewis P. Lipsitt, eds. Selections from *Stress and Coping in Autism*. Oxford University Press, 2006, pp. 70-81. ISBN: 9780195182262.
 
 \- Grandin, Temple. "Stopping the Constant Stress."
 
@@ -118,11 +116,11 @@ Baron, M. Grace, June Groden, Gerald Groden, and Lewis P. Lipsitt, eds. Selectio
 
 \- Morgan, Kathleen. "Is Autism a Stress Disorder? What Studies of Nonautistic Populations Can Tell Us."
 
-Dawson, Geraldine. "A Psychobiological Perspective on the Early Socio-Emotional Development of Children with Autism." _Rochester Symposium on Developmental Psychopathology_ 3 (1991): 207-234.
+Dawson, Geraldine. "A Psychobiological Perspective on the Early Socio-Emotional Development of Children with Autism." *Rochester Symposium on Developmental Psychopathology* 3 (1991): 207-234.
 
-Goodwin, Matthew S., et al. "Cardiovascular Arousal in Individuals with Autism." _Focus on Autism and Other Developmental Disabilities_ 21, no. 2 (2006): 100-123. ([PDF - 1.3 MB](https://www.researchgate.net/publication/245924107_Cardiovascular_Arousal_in_Individuals_With_Autism))
+Goodwin, Matthew S., et al. "Cardiovascular Arousal in Individuals with Autism." *Focus on Autism and Other Developmental Disabilities* 21, no. 2 (2006): 100-123. ([PDF - 1.3 MB](https://www.researchgate.net/publication/245924107_Cardiovascular_Arousal_in_Individuals_With_Autism))
 
-Picard, Rosalind W. "Future Affective Technology for Autism and Emotion Communication." In _The Philosophical Transactions of the Royal Society B_, (2009). ([PDF](http://affect.media.mit.edu/pdfs/09.Picard-PhilTranRoyalSocB.pdf))
+Picard, Rosalind W. "Future Affective Technology for Autism and Emotion Communication." In *The Philosophical Transactions of the Royal Society B*, (2009). ([PDF](http://affect.media.mit.edu/pdfs/09.Picard-PhilTranRoyalSocB.pdf))
 
 ### Questions
 
@@ -135,17 +133,17 @@ Picard, Rosalind W. "Future Affective Technology for Autism and Emotion Communic
 Week 6: Project Idea Discussions
 {{< tdclose >}}{{< tdopen >}}
 
-Tomchek, Scott D., and Winnie Dunn. "Sensory Processing in Children With and Without Autism: A Comparative Study Using the Short Sensory Profile." _The American Journal of Occupational Therapy_ 61, no. 2 (2007): 190-200. ([PDF](https://www.researchgate.net/publication/6391395_Sensory_Processing_in_Children_With_and_Without_Autism_A_Comparative_Study_Using_the_Short_Sensory_Profile))
+Tomchek, Scott D., and Winnie Dunn. "Sensory Processing in Children With and Without Autism: A Comparative Study Using the Short Sensory Profile." *The American Journal of Occupational Therapy* 61, no. 2 (2007): 190-200. ([PDF](https://www.researchgate.net/publication/6391395_Sensory_Processing_in_Children_With_and_Without_Autism_A_Comparative_Study_Using_the_Short_Sensory_Profile))
 
-Russo, Natalie, et al. "[Multisensory Processing in Children With Autism: High-Density Electrical Mapping of Auditory-Somatosensory Integration](http://www.ncbi.nlm.nih.gov/pubmed/20730775)." _Autism Research_ 3, no. 5 (2010): 253-267.
+Russo, Natalie, et al. "[Multisensory Processing in Children With Autism: High-Density Electrical Mapping of Auditory-Somatosensory Integration](http://www.ncbi.nlm.nih.gov/pubmed/20730775)." *Autism Research* 3, no. 5 (2010): 253-267.
 
-Schoen, Sarah A. "[Physiological and Behavioral Differences in Sensory Processing: A Comparison of Children With Autism Spectrum Disorder and Sensory Modulation Disorder](http://dx.doi.org/10.3389/neuro.07.029.2009)." _Frontiers in Integrative Neuroscience_ 3 (2009): Article no. 29.
+Schoen, Sarah A. "[Physiological and Behavioral Differences in Sensory Processing: A Comparison of Children With Autism Spectrum Disorder and Sensory Modulation Disorder](http://dx.doi.org/10.3389/neuro.07.029.2009)." *Frontiers in Integrative Neuroscience* 3 (2009): Article no. 29.
 
-Chamak, B., B. Bonniau, E. Jaunay, and D. Cohen. "[What Can We Learn About Autism From Autistic Persons?](http://www.ncbi.nlm.nih.gov/pubmed/18560252)" _Psychotherapy and Psychosomatics_ 77, no. 5 (2008): 271-291.
+Chamak, B., B. Bonniau, E. Jaunay, and D. Cohen. "[What Can We Learn About Autism From Autistic Persons?](http://www.ncbi.nlm.nih.gov/pubmed/18560252)" *Psychotherapy and Psychosomatics* 77, no. 5 (2008): 271-291.
 
-Roberts, Jane E., Linda King-Thomas, and Marcia L. Boccia. "[Behavioral Indexes of the Efficacy of Sensory Integration Therapy](http://www.ncbi.nlm.nih.gov/pubmed/17944293)." _The American Journal of Occupational Therapy_ 61, no. 5 (2003): 555-562.
+Roberts, Jane E., Linda King-Thomas, and Marcia L. Boccia. "[Behavioral Indexes of the Efficacy of Sensory Integration Therapy](http://www.ncbi.nlm.nih.gov/pubmed/17944293)." *The American Journal of Occupational Therapy* 61, no. 5 (2003): 555-562.
 
-May-Benson, Teresa A., Jane A. Koomar, and Alison Teasedale. "[Incidence of Pre-, Peri-, and Post-Natal Birth and Developmental Problems of Children with Sensory Processing Disorder and Children with Autism Spectrum Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779100/)." _Frontiers in Integrative Neuroscience_ 31, no. 3 (2009).
+May-Benson, Teresa A., Jane A. Koomar, and Alison Teasedale. "[Incidence of Pre-, Peri-, and Post-Natal Birth and Developmental Problems of Children with Sensory Processing Disorder and Children with Autism Spectrum Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2779100/)." *Frontiers in Integrative Neuroscience* 31, no. 3 (2009).
 
 ### Questions
 
