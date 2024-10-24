@@ -8,7 +8,7 @@ description: "An autism-spectrum student uses a storytelling iPad\xAE app with K
   \ for individual sessions, or in group work on collaboration as part of a social\
   \ skills program. (Photo courtesy of Amy Newton. Used with permission.)"
 draft: false
-file: /courses/mas-771-autism-theory-and-technology-spring-2011/bd857949aab621dd8fc6af191c21249d_mas-771s11-th.jpg
+file: /ol-ocw-studio-app/courses/mas-771-autism-theory-and-technology-spring-2011/bd857949aab621dd8fc6af191c21249d_mas-771s11-th.jpg
 file_size: 14204
 file_type: image/jpeg
 image_metadata:
