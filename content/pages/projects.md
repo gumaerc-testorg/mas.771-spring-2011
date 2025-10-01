@@ -40,4 +40,4 @@ The presentation will be in class and should cover the same points that the repo
 
 **Examples**
 
-Examples of past student work can be found on the [2011 course webpage](http://courses.media.mit.edu/2011spring/mas771/finalprojects.html).
+Examples of past student work can be found on the {{% resource_link "8822e6b7-4723-4de0-8801-449f6fd12808" "2011 course webpage" %}}.
